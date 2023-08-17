@@ -10,7 +10,7 @@ on:
 
 env:
   # Flag to disable deploy step
-  DEPLOY_TO_DIGITAL_OCEAN: true
+  DEPLOY_TO_DIGITAL_OCEAN: false
 
 # Disable parallel execution
 concurrency: release
